@@ -1,6 +1,6 @@
-# 💻 MaMaDoX's GitHub Profile
+# 💻 RAMI's GitHub Profile
 
-Hello! I'm **MaMaDoX**, a passionate coder on a journey to become an expert in the field of software development. My enthusiasm for coding drives me to constantly learn and improve, and I'm always excited to take on new challenges and projects.
+Hello! I'm **RAMI**, a passionate coder on a journey to become an expert in the field of software development. My enthusiasm for coding drives me to constantly learn and improve, and I'm always excited to take on new challenges and projects.
 
 ## 🌱 Learning Path
 I'm committed to growing my skills and knowledge in various areas of software development. Here are some of the key areas I'm focusing on:
